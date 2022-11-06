@@ -32,7 +32,7 @@
         MICSR.shortName = 'Combat Simulator';
 
         // compatible game version
-        MICSR.gameVersion = 'v1.0.5';
+        MICSR.gameVersion = 'v1.1.0';
 
         // combat sim version
         MICSR.majorVersion = 1;
